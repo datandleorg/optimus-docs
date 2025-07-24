@@ -419,19 +419,6 @@ kubectl scale deployment workflow-service --replicas=2 -n optimus-prod
 kubectl scale deployment rag-service --replicas=2 -n optimus-prod
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](./CONTRIBUTING.md) for details.
-
-### Development Workflow
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Ensure all tests pass
-6. Submit a pull request
-
 ### Code Style
 
 - **JavaScript/TypeScript**: ESLint + Prettier
@@ -442,38 +429,6 @@ We welcome contributions! Please see our [Contributing Guide](./CONTRIBUTING.md)
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-## 🆘 Support
-
-### Getting Help
-
-- **Documentation**: Check the [docs](./docs/) directory
-- **Issues**: Report bugs on [GitHub Issues](https://github.com/your-org/agent-platform/issues)
-- **Discussions**: Join our [GitHub Discussions](https://github.com/your-org/agent-platform/discussions)
-- **Email**: support@agent-platform.com
-
-### Community
-
-- **Discord**: [Join our Discord server](https://discord.gg/agent-platform)
-- **Twitter**: [Follow us on Twitter](https://twitter.com/agentplatform)
-- **Blog**: [Read our blog](https://blog.agent-platform.com)
-
-## 🗺️ Roadmap
-
-### Upcoming Features
-
-- [ ] **Multi-language Support**: Support for multiple languages
-- [ ] **Advanced Analytics**: Enhanced analytics and reporting
-- [ ] **Mobile App**: Native mobile applications
-- [ ] **Enterprise Features**: SSO, LDAP integration
-- [ ] **Plugin System**: Extensible plugin architecture
-- [ ] **Advanced AI Models**: Support for more AI models
-
-### Version History
-
-- **v1.0.0** - Initial release with core functionality
-- **v1.1.0** - Added advanced workflow features
-- **v1.2.0** - Enhanced RAG capabilities
-- **v1.3.0** - Improved UI/UX and performance
 
 ## 🙏 Acknowledgments
 
