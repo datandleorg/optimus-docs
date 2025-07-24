@@ -324,24 +324,6 @@ Add the chat widget to your website:
 - **[UI](./ui/README.md)** - Web-based user interface
 - **[Chat Widget](./my-widget/README.md)** - Embeddable chat widget
 
-### API Documentation
-
-- **Swagger UI**: http://localhost:8080/docs
-- **API Reference**: [API Documentation](./docs/api-reference.md)
-- **Authentication Guide**: [Authentication](./docs/authentication.md)
-
-### Architecture Documentation
-
-- **System Architecture**: [Architecture Overview](./ARCHITECTURE_DOCUMENTATION.md)
-- **Database Schema**: [Database Schema](./docs/database-schema.md)
-- **Deployment Guide**: [Deployment](./docs/deployment.md)
-
-### Development Documentation
-
-- **Contributing Guide**: [Contributing](./CONTRIBUTING.md)
-- **Development Setup**: [Development](./docs/development.md)
-- **Testing Guide**: [Testing](./docs/testing.md)
-
 ## 🧪 Testing
 
 ### Run Tests
